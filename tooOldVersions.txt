@@ -1,0 +1,7 @@
+{
+    "version": "1.0.1",
+    "minNodeVersion": "18.0.0",
+    "forceUpdate": false,
+    "updateNotes": "Fixed double reply bug and optimized listenMqtt stability.",
+    "downloadUrl": "https://github.com/sabbirbbz-69/Goatbot"
+}
